@@ -1,14 +1,14 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
-p:first-child{
+article p:first-child{
 	background-color:black;
 	color:white;
 }
-p:nth-child(1){
+article p:nth-child(2){
 	color:black;
 }
-p:last-child{
+article p:last-child{
 	color:red;
 }
 ul li{
